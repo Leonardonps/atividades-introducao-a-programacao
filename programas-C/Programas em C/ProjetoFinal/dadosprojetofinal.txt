@@ -1,0 +1,70 @@
+0
+ shampoo lavou caiu
+ 9.000000
+ 1001
+ 4356
+ 12
+
+0
+ condicionador lavou caiu
+ 10.000000
+ 1002
+ 5678
+ 14
+
+0
+ miojo turma do cascao
+ 1.500000
+ 1003
+ 9876
+ 15
+
+0
+ biscoito club antisocial
+ 4.000000
+ 1004
+ 3453
+ 5
+
+0
+ shampoo use peruca
+ 8.500000
+ 1005
+ 130987412
+ 10
+
+0
+ condicionador use peruca
+ 11.000000
+ 1006
+ 4291
+ 10
+
+0
+ teste cadastro
+ 1.000000
+ 1010
+ 4279823
+ 12
+
+0
+ teste apresentacao2
+ 2.660000
+ 2000
+ 646566
+ 156
+
+0
+ cha de canela
+ 2.000000
+ 4199705
+ 0
+ 8
+
+0
+ cha de canela
+ 3.500000
+ 56
+ 6548984
+ 56
+

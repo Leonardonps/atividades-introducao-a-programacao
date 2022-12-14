@@ -6,6 +6,8 @@ O projeto final da disciplina tinha como objetivo desenvolver um sistema CRUD (C
 
 ### Captura de algumas telas do projeto:
 
+<div align="center">
+
 #### Tela inicial
 ![Tela inicial](https://github.com/leonardonps/atividades-introducao-a-programacao/blob/main/programas-C/Programas%20em%20C/ProjetoFinal/captura-telas/tela-inicial.png)
 
@@ -15,3 +17,4 @@ O projeto final da disciplina tinha como objetivo desenvolver um sistema CRUD (C
 #### Tela de cadastro
 ![Tela de Cadastro](https://github.com/leonardonps/atividades-introducao-a-programacao/blob/main/programas-C/Programas%20em%20C/ProjetoFinal/captura-telas/tela-cadastro.png)
 
+</div>
